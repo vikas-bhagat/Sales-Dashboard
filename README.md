@@ -56,6 +56,9 @@ The dashboard can be used by:
 
 ---
 
+## 8. Screenshots / Demos
+Example : ![Dashboard Preview].(https://github.com/vikas-bhagat/Sales-Dashboard/blob/main/Screenshot%202025-09-01%20000432.png)
+
 ## 📬 Contact
 👤 **Vikas Bhagat**  
 📧 vikasbhagat3011@gmail.com  
